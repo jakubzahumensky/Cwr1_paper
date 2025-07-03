@@ -1,7 +1,6 @@
 Image processing and analysis Fiji (ImageJ) macros used in:
 
-**Naseem et al., 2024 – The Cwr1 protein kinase localizes to the plasma membrane and mediates resistance to cell wall stress in Candida albicans**
-
+**Naseem et al., 2024 – The Cwr1 protein kinase localizes to the plasma membrane and mediates resistance to cell wall stress in Candida albicans**\
 doi: https://doi-org.d360prx.biomed.cas.cz/10.1128/msphere.00391-24
 
 

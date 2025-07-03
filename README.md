@@ -1,4 +1,4 @@
-Image processing and analysis Fiji (ImageJ) macros used in:
+Fiji (ImageJ) macros used for automated image analysis in:
 
 **Naseem et al., 2024 – The Cwr1 protein kinase localizes to the plasma membrane and mediates resistance to cell wall stress in Candida albicans**\
 *mSphere* 9(12):e0039124\
